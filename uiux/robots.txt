@@ -1,0 +1,9 @@
+# robots.txt for Explore Nagpur
+# https://divyanshkhare-06.github.io/explore-nagpur/uiux/
+
+User-agent: *
+Allow: /
+
+# Reference to absolute sitemap URL
+Sitemap: https://divyanshkhare-06.github.io/explore-nagpur/uiux/sitemap.xml
+
